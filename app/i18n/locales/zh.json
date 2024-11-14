@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "home": "首页",
+    "games": "游戏",
+    "features": "特色",
+    "faq": "常见问题"
+  },
+  "hero": {
+    "title": "畅玩精彩游戏",
+    "subtitle": "体验最佳在线游戏平台",
+    "cta": "开始游戏"
+  },
+  "features": {
+    "title": "为什么选择我们",
+    "items": [
+      {
+        "title": "即时游戏",
+        "description": "无需下载 - 直接在浏览器中游玩"
+      },
+      {
+        "title": "多样游戏",
+        "description": "享受丰富多彩的游戏内容"
+      },
+      {
+        "title": "安全平台",
+        "description": "您的安全是我们的首要任务"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      {
+        "question": "如何开始游戏？",
+        "answer": "只需选择一个游戏，即可直接在浏览器中开始游戏 - 无需下载！"
+      },
+      {
+        "question": "是否免费游玩？",
+        "answer": "是的，我们的大多数游戏都是免费的！"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 Joeybert Gaming. 保留所有权利。"
+  }
+}

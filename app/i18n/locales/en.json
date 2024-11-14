@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "home": "Home",
+    "games": "Games",
+    "features": "Features",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Play Amazing Games",
+    "subtitle": "Experience the best online gaming platform",
+    "cta": "Start Playing"
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "items": [
+      {
+        "title": "Instant Play",
+        "description": "No downloads required - play directly in your browser"
+      },
+      {
+        "title": "Multiple Games",
+        "description": "Access a wide variety of exciting games"
+      },
+      {
+        "title": "Secure Platform",
+        "description": "Your safety and security are our top priorities"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "How do I start playing?",
+        "answer": "Simply select a game and start playing directly in your browser - no downloads required!"
+      },
+      {
+        "question": "Is it free to play?",
+        "answer": "Yes, most of our games are free to play!"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 Joeybert Gaming. All rights reserved."
+  }
+}
